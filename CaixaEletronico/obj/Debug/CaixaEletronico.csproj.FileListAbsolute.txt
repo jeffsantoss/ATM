@@ -1,0 +1,6 @@
+c:\users\jeff\documents\visual studio 2015\Projects\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+c:\users\jeff\documents\visual studio 2015\Projects\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+c:\users\jeff\documents\visual studio 2015\Projects\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+c:\users\jeff\documents\visual studio 2015\Projects\CaixaEletronico\obj\Debug\CaixaEletronico.csprojResolveAssemblyReference.cache
+c:\users\jeff\documents\visual studio 2015\Projects\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+c:\users\jeff\documents\visual studio 2015\Projects\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
